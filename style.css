@@ -1,0 +1,238 @@
+.sign-wrap-1 {
+    background: #8b00ff;
+    text-align: center;
+    padding: 60px 20px;
+    border-radius: 40px;
+}
+.sign-wrap-1 .sign_word {
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 50px;
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    animation: neon-1 .1s ease-in-out infinite alternate;
+}
+@keyframes neon-1 {
+    from {
+        text-shadow: 0 0 6px rgba(202, 228, 225, 0.92), 0 0 30px rgba(202, 228, 225, 0.34), 0 0 12px rgba(191, 226, 255, 0.52), 0 0 21px rgba(191, 226, 255, 0.92), 0 0 34px rgba(191, 226, 255, 0.78), 0 0 54px rgba(191, 226, 255, 0.92);
+    }
+    to {
+        text-shadow: 0 0 6px rgba(202, 228, 225, 0.92), 0 0 30px rgba(202, 228, 225, 0.42), 0 0 12px rgba(191, 226, 255, 0.52), 0 0 22px rgba(191, 226, 255, 0.92), 0 0 38px rgba(191, 226, 255, 0.78), 0 0 60px #FFF;
+    }
+}
+
+/*Второй текст*/
+.sign-wrap-2 {
+    background: #8b00ff    /*#337AB7*/;
+    text-align: /*center*/;
+    padding: 60px 20px;
+    border-radius: 40px;
+}
+.sign-wrap-2 .sign_word {
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 50px;
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    animation: 2s neon-2 alternate-reverse infinite;
+    border-radius: 40px;
+}
+/*Третий текст*/
+.sign-wrap-3 {
+    background: #337AB7;
+    text-align: center;
+    padding: 60px 20px;
+}
+.sign-wrap-3 .sign_word {
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 50px;
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    animation: neon-3 5s steps(1, start) infinite reverse;
+}
+
+/*ЛИНИЯ 1*/
+.sign-wrap-4 {
+    background: #8b00ff    /*#337AB7*/;
+    text-align: /*center*/;
+    padding: 5px 20px;
+    border-radius: 10px;
+}
+.sign-wrap-4 .sign_word {
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 50px;
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    animation: 2s neon-2 alternate-reverse infinite;
+    border-radius: 40px;
+}
+/*Третий текст*/
+.sign-wrap-3 {
+    background: #337AB7;
+    text-align: center;
+    padding: 06px 35px;
+}
+.sign-wrap-3 .sign_word {
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 50px;
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    animation: neon-3 5s steps(1, start) infinite reverse;
+}
+
+/*Неоновая бегущая строка*/
+.neonText {
+  color: #000000;
+  text-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 42px #0fa,
+      0 0 82px #0fa,
+      0 0 92px #0fa,
+}
+
+/* Additional styling */
+  
+body {
+  font-size: 30px;
+  font-family: "Vibur", sans-serif;
+  background-color: #010a01;
+}  
+
+h1, h2 {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 40;
+}
+  
+h1 {
+    font-size: 10rem;
+}
+  
+h2 {
+    font-size: 5rem;
+}
+
+.container {
+  margin-top: 1vh;
+}
+
+
+/*Список уроков текст*/
+.sign-wrap-5 {
+    background: #8b00ff    /*#337AB7*/;
+    text-align: /*center*/;
+    padding: 60px 20px;
+    border-radius: 40px;
+}
+.sign-wrap-5 .sign_word {
+    background: #8b00ff;
+    text-align: center;
+    padding: 60px 20px;
+    border-radius: 40px;
+}
+.sign-wrap-1 .sign_word {
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 50px;
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    animation: neon-1 .1s ease-in-out infinite alternate;
+}
+@keyframes neon-1 {
+    from {
+        text-shadow: 0 0 6px rgba(202, 228, 225, 0.92), 0 0 30px rgba(202, 228, 225, 0.34), 0 0 12px rgba(191, 226, 255, 0.52), 0 0 21px rgba(191, 226, 255, 0.92), 0 0 34px rgba(191, 226, 255, 0.78), 0 0 54px rgba(191, 226, 255, 0.92);
+    }
+    to {
+        text-shadow: 0 0 6px rgba(202, 228, 225, 0.92), 0 0 30px rgba(202, 228, 225, 0.42), 0 0 12px rgba(191, 226, 255, 0.52), 0 0 22px rgba(191, 226, 255, 0.92), 0 0 38px rgba(191, 226, 255, 0.78), 0 0 60px #FFF;
+    }
+}
+
+.sign-wrap-7 {
+    background: #8b00ff;
+    text-align: center;
+    padding: 30px 20px;
+    border-radius: 40px;
+}
+.sign-wrap-7 .sign_word {
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 50px;
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    animation: neon-3 5s steps(1, start) infinite reverse;
+}
+@keyframes neon-7 {
+    0%{
+        color: #0b3960;
+        text-shadow: 0 0 7px #0b3960, 0 0 8px #0b3960;
+    }
+    80%{
+        color: #fff;
+        text-shadow: 0 0 6px #fff,0 0 10px #fff,0 0 50px #79a7fc;
+    }
+    81%{
+        color: #E1F5FE;
+        text-shadow: 0 0 6px #fff,0 0 10px #fff,0 0 50px #79a7fc;
+    }
+    82%{color: #0b3960;
+        text-shadow: 0 0 7px #0b3960, 0 0 8px #0b3960;
+    }
+    83%{
+        color: #E1F5FE;
+        text-shadow: 0 0 6px #fff,0 0 10px #fff,0 0 50px #79a7fc;
+    }
+    84%{
+        color: #0b3960;
+        text-shadow: 0 0 7px #0b3960, 0 0 8px #0b3960;
+    }
+    85%{
+        color: #E1F5FE;
+        text-shadow: 0 0 6px #fff,0 0 10px #fff,0 0 50px #79a7fc;
+    }
+    100%{
+        color: #0b3960;
+        text-shadow: 0 0 7px #0b3960,0 0 8px #0b3960;
+    }
+}
+
+.review_stars_wrap{
+  overflow: hidden;
+}
+#review_stars {
+  overflow: hidden;
+  position: relative;
+  float: left;
+}
+#review_stars input {
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  z-index: 0;
+}
+#review_stars input ~ label i{
+  color:#ccc;
+}
+#review_stars input:checked ~ label i{
+  color: #ec9801;
+}
+#review_stars label {
+  float: right;
+  cursor: pointer;
+  position: relative;
+  z-index: 1;
+}
+#review_stars label:hover i, #review_stars label:hover ~ label i{
+  color: #ec9801;
+}
